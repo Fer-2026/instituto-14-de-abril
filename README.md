@@ -2,7 +2,7 @@
 
 Sitio estático de 10 vistas para el **Instituto Cooperativo 14 de Abril** (Salta): Educación Secundaria, turno mañana, 1.º a 5.º año, orientación en Ciencias Naturales.
 
-- **Sitio en vivo:** https://Fer-2026.github.io/instituto-14-de-abril/
+- **Sitio en vivo:** https://fer-2026.github.io/instituto-14-de-abril/
 - **Repositorio:** https://github.com/Fer-2026/instituto-14-de-abril
 - **Redes:** [Facebook](https://share.google/0eQSeQQhdelOzPzhW)
 
@@ -16,7 +16,7 @@ css/  js/  img/                recursos
 docs/accesibilidad-lighthouse.md
 ```
 
-## Vistas
+## Vistasgit commit -am "docs: actualiza enlace de sitio en vivo"
 1. [Inicio](index.html)
 2. [Institucional](institucional.html)
 3. [Propuesta educativa](propuesta-educativa.html)
