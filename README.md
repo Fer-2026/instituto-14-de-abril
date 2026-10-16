@@ -2,8 +2,8 @@
 
 Sitio estático de 10 vistas para el **Instituto Cooperativo 14 de Abril** (Salta): Educación Secundaria, turno mañana, 1.º a 5.º año, orientación en Ciencias Naturales.
 
-- **Sitio en vivo:** https://TU-USUARIO.github.io/instituto-14-de-abril/
-- **Repositorio:** https://github.com/TU-USUARIO/instituto-14-de-abril
+- **Sitio en vivo:** https://Fer-2026.github.io/instituto-14-de-abril/
+- **Repositorio:** https://github.com/Fer-2026/instituto-14-de-abril
 - **Redes:** [Facebook](https://share.google/0eQSeQQhdelOzPzhW)
 
 ## Tecnologías
@@ -50,5 +50,3 @@ Abrí `index.html` en el navegador (o usá Live Server).
 - **Los nombres del equipo docente son ficticios** (solo para la maqueta).
 - Las fotos son marcadores: usar solo imágenes con autorización del instituto.
 
-## Pendientes
-Los textos marcados con `[completar]` y las fotos son marcadores a reemplazar con el contenido final de Figma y datos oficiales del instituto.
